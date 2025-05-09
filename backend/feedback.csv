@@ -1,0 +1,71 @@
+Customer ID,Name,Date,Product/Service,Category,Rating,Feedback Text
+CUST001,John M.,2024-04-06,ERP HR,Functionality,1,ERP HR is rated 1 for functionality.
+CUST002,James D.,2024-04-03,ERP CRM,Functionality,2,Some key features are broken or missing.
+CUST003,Sarah J.,2024-04-10,ERP Reports,Performance,4,ERP Reports is rated 4 for performance.
+CUST004,Alice K.,2024-04-14,ERP Inventory,Pricing,2,ERP Inventory is rated 2 for pricing.
+CUST005,Sarah J.,2024-04-05,ERP Billing,Pricing,1,The pricing is too high for the value offered.
+CUST006,Isabella R.,2024-04-18,ERP Billing,Performance,1,System crashes frequently under heavy use.
+CUST007,James D.,2024-04-29,ERP HR,Support,4,Support team was helpful and resolved my issue.
+CUST008,Lucas H.,2024-04-20,ERP Inventory,Support,4,Support team was helpful and resolved my issue.
+CUST009,Alice K.,2024-04-29,ERP CRM,Functionality,1,ERP CRM is rated 1 for functionality.
+CUST010,Sarah J.,2024-04-11,ERP CRM,Performance,3,System performance is average under load.
+CUST011,John M.,2024-04-08,ERP Billing,Pricing,2,ERP Billing is rated 2 for pricing.
+CUST012,Mia B.,2024-04-22,ERP CRM,Functionality,3,ERP CRM is rated 3 for functionality.
+CUST013,David P.,2024-04-19,ERP HR,Performance,4,ERP HR is rated 4 for performance.
+CUST014,David P.,2024-04-22,ERP CRM,Functionality,3,ERP CRM is rated 3 for functionality.
+CUST015,Sarah J.,2024-04-19,ERP Inventory,Usability,1,ERP Inventory is rated 1 for usability.
+CUST016,David P.,2024-04-25,ERP Billing,Support,1,ERP Billing is rated 1 for support.
+CUST017,Noah L.,2024-04-16,ERP Reports,Performance,4,ERP Reports is rated 4 for performance.
+CUST018,Isabella R.,2024-04-20,ERP Billing,Functionality,3,ERP Billing is rated 3 for functionality.
+CUST019,Olivia T.,2024-04-22,ERP Inventory,Support,4,Support team was helpful and resolved my issue.
+CUST020,Alice K.,2024-04-24,ERP Inventory,Support,4,Support team was helpful and resolved my issue.
+CUST021,Sophia G.,2024-04-17,ERP Reports,Functionality,1,ERP Reports is rated 1 for functionality.
+CUST022,Emma W.,2024-04-20,ERP Inventory,Usability,3,ERP Inventory is rated 3 for usability.
+CUST023,Ethan C.,2024-04-21,ERP HR,Support,3,ERP HR is rated 3 for support.
+CUST024,Emma W.,2024-04-24,ERP Billing,Performance,1,System crashes frequently under heavy use.
+CUST025,Sarah J.,2024-04-28,ERP CRM,Pricing,2,ERP CRM is rated 2 for pricing.
+CUST026,Sophia G.,2024-04-01,ERP Inventory,Pricing,2,ERP Inventory is rated 2 for pricing.
+CUST027,James D.,2024-04-07,ERP Reports,Support,5,ERP Reports is rated 5 for support.
+CUST028,James D.,2024-04-16,ERP Billing,Usability,5,The interface is intuitive and user-friendly.
+CUST029,Sarah J.,2024-04-08,ERP CRM,Usability,5,The interface is intuitive and user-friendly.
+CUST030,Ava N.,2024-04-04,ERP CRM,Pricing,3,Pricing is okay but could be more flexible.
+CUST031,Noah L.,2024-04-08,ERP Reports,Support,1,ERP Reports is rated 1 for support.
+CUST032,Noah L.,2024-04-08,ERP Reports,Support,5,ERP Reports is rated 5 for support.
+CUST033,Sophia G.,2024-04-01,ERP Inventory,Pricing,2,ERP Inventory is rated 2 for pricing.
+CUST034,Isabella R.,2024-04-08,ERP Reports,Support,2,Customer support was slow to respond.
+CUST035,Emma W.,2024-04-28,ERP CRM,Support,4,Support team was helpful and resolved my issue.
+CUST036,Sophia G.,2024-04-18,ERP Reports,Pricing,2,ERP Reports is rated 2 for pricing.
+CUST037,Alice K.,2024-04-07,ERP HR,Performance,3,System performance is average under load.
+CUST038,David P.,2024-04-12,ERP CRM,Support,5,ERP CRM is rated 5 for support.
+CUST039,David P.,2024-04-26,ERP Reports,Pricing,4,ERP Reports is rated 4 for pricing.
+CUST040,Mia B.,2024-04-11,ERP HR,Functionality,3,ERP HR is rated 3 for functionality.
+CUST041,John M.,2024-04-09,ERP HR,Performance,1,System crashes frequently under heavy use.
+CUST042,Emma W.,2024-04-19,ERP HR,Usability,3,ERP HR is rated 3 for usability.
+CUST043,Alice K.,2024-04-05,ERP HR,Usability,4,"Usability is good, but a few tweaks are needed."
+CUST044,Mia B.,2024-04-17,ERP CRM,Usability,1,ERP CRM is rated 1 for usability.
+CUST045,Ethan C.,2024-04-10,ERP Billing,Functionality,3,ERP Billing is rated 3 for functionality.
+CUST046,Mia B.,2024-04-28,ERP HR,Performance,4,ERP HR is rated 4 for performance.
+CUST047,Ava N.,2024-04-21,ERP CRM,Pricing,5,ERP CRM is rated 5 for pricing.
+CUST048,John M.,2024-04-10,ERP Inventory,Pricing,4,ERP Inventory is rated 4 for pricing.
+CUST049,Ava N.,2024-04-01,ERP Reports,Usability,2,ERP Reports is rated 2 for usability.
+CUST050,Noah L.,2024-04-29,ERP Billing,Pricing,2,ERP Billing is rated 2 for pricing.
+CUST051,Isabella R.,2024-04-09,ERP Reports,Pricing,4,ERP Reports is rated 4 for pricing.
+CUST052,James D.,2024-04-19,ERP Reports,Usability,2,ERP Reports is rated 2 for usability.
+CUST053,Ethan C.,2024-04-03,ERP Reports,Functionality,5,All features are working perfectly.
+CUST054,James D.,2024-05-01,ERP Inventory,Support,4,Support team was helpful and resolved my issue.
+CUST055,Sarah J.,2024-04-03,ERP Inventory,Usability,3,ERP Inventory is rated 3 for usability.
+CUST056,Mia B.,2024-04-29,ERP Inventory,Support,5,ERP Inventory is rated 5 for support.
+CUST057,Sophia G.,2024-04-15,ERP Inventory,Performance,4,ERP Inventory is rated 4 for performance.
+CUST058,Ethan C.,2024-04-07,ERP Billing,Performance,2,ERP Billing is rated 2 for performance.
+CUST059,David P.,2024-04-20,ERP Reports,Support,5,ERP Reports is rated 5 for support.
+CUST060,Olivia T.,2024-04-10,ERP CRM,Performance,2,ERP CRM is rated 2 for performance.
+CUST061,Noah L.,2024-04-24,ERP CRM,Usability,2,ERP CRM is rated 2 for usability.
+CUST062,Ava N.,2024-04-25,ERP Inventory,Support,4,Support team was helpful and resolved my issue.
+CUST063,Ethan C.,2024-04-27,ERP Inventory,Performance,1,System crashes frequently under heavy use.
+CUST064,Emma W.,2024-04-23,ERP HR,Functionality,3,ERP HR is rated 3 for functionality.
+CUST065,Mia B.,2024-04-02,ERP Reports,Usability,4,"Usability is good, but a few tweaks are needed."
+CUST066,James D.,2024-04-26,ERP CRM,Support,4,Support team was helpful and resolved my issue.
+CUST067,Sarah J.,2024-04-04,ERP Inventory,Performance,4,ERP Inventory is rated 4 for performance.
+CUST068,Sarah J.,2024-04-01,ERP Reports,Functionality,1,ERP Reports is rated 1 for functionality.
+CUST069,Ethan C.,2024-04-03,ERP Reports,Usability,4,"Usability is good, but a few tweaks are needed."
+CUST070,Isabella R.,2024-04-28,ERP HR,Pricing,3,Pricing is okay but could be more flexible.
